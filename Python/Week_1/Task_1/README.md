@@ -6,10 +6,6 @@ This is a simple Python script to count the number of occurrences of the number 
 
 The script defines a function `countFours` which takes a list as an argument and prints the number of times the number 4 appears in that list. It then demonstrates the use of this function with a predefined list of integers.
 
-## Usage
-
-To use this script, simply copy the code into a Python file (e.g., `count_fours.py`) and run it.
-
 ## Code
 
 ```python
