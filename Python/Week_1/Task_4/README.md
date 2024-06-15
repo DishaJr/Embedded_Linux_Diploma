@@ -4,7 +4,7 @@ This is a simple Python script to calculate and print the area of a circle given
 
 ## Description
 
-The script defines a function `area` which takes the radius of a circle as an argument and prints the calculated area using the formula \( \pi \times \text{radius}^2 \). The script prompts the user to input the radius of the circle and then uses the `area` function to display the result.
+The script defines a function `area` which takes the radius of a circle as an argument and prints the calculated area using the formula pi*radius^2. The script prompts the user to input the radius of the circle and then uses the `area` function to display the result.
 
 ## Code
 
